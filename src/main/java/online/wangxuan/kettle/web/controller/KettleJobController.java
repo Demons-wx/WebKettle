@@ -60,7 +60,9 @@ public class KettleJobController {
 
 
     /**
-     * comet4j  http://pengbaowei0311.iteye.com/blog/2302882
+     * comet4j
+     * http://pengbaowei0311.iteye.com/blog/2302882
+     * http://blog.csdn.net/zhu_tianwei/article/details/43952397
      */
 
 }
